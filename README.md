@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SungGuk's+GitHub!👋)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SungGuk's+GitHub!👋)](https://git.io/typing-svg)
  
 <div align="center">
  
@@ -39,16 +39,28 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-    
+
 ## 📚 Tech Stack 📚
  ### 🔍 Back-End 🔍
  <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-  <div>
- ### 💾 Data Base 💾
- ### 📺 Front-End 📺 
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+    <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+    <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white">
+    <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+    <img src="https://img.shields.io/badge/MyBatis-232F3E?style=for-the-badge&logo=mybatis&logoColor=white" />
+  </div>
+ 
+ <div align="center">
+ <h3>💾 Data Base 💾<h3/>
+  <div style="display:flex; flex-direction:row;">
+     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+     <img src="https://img.shields.io/badge/H2-232F3E?style=for-the-badge&logo=h2&logoColor=white" />
+   </div>
+ </div>
+ <h3>📺 Front-End 📺<h3/> 
+    <div style="display:flex; flex-direction:row;">
     <br>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
@@ -68,8 +80,9 @@
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
     <br>
 <br>
-<div></div>
+</div></div>
 
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254) -->
 
  
+](url)
