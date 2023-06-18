@@ -63,19 +63,21 @@
    <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
    </div>
 
+  <div>
       <h3>💡 My Most Used Languages 💡</h3>
       <p align="center">
         <a href="https://github.com/tjdrnr1217">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdrnr1217&layout=compact" />
         </a>
       </p>
-
+   <div>
     <h3>💡 My Git Stats 💡</h3>
      <p align="center">
        <a href="https://github.com/tjdrnr1217">
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=tjdrnr1217" />
        </a>
      </p>
- 
+    <div>
+   </div>
    </div>
 
