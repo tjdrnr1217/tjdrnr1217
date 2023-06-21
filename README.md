@@ -5,7 +5,7 @@
 <div align="center"> 
 <br>
  
-## 📞 My SMS 📞
+## 📞 My SNS 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@tjdrnr1217">
         <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Velog&logoColor=white"> 
